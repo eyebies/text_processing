@@ -1,5 +1,5 @@
-# text_processing
-resources for text recognition from natural images
+# text_processing 
+resources for text localisation, recognition from natural images
 
 https://github.com/chongyangtao/Awesome-Scene-Text-Recognition
 
